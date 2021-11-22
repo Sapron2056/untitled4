@@ -15,4 +15,9 @@ public class MainApp {
 
         System.out.println(word);
     }
+
+    static public void test()
+    {
+        System.out.println("test");
+    }
 }
